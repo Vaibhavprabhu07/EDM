@@ -1,48 +1,39 @@
-# Ex.No.-1.1-Design and Draft the given 2D Sketches in modelling software.
+EX: 1.1- Design And Draft The Given 2D Sketches In Modelling Software. 
+AIM: 
+ To sketch the given dimension using fusion 360 software REQUIREMENTS: 
+1. Autodesk fusion 360 
+2. Windows 10 
+3. 16gb RAM (integrated graphics with 2 gb or more) 4. 2.5 mbps or faster download, 500 kbps or faster upload 
+PROCEDURE: 
+1. Open an new file and then select sketch icon 
+2. Select the chosen plane for sketching
+<img width="337" height="548" alt="Screenshot 2026-10-05 190607" src="https://github.com/user-attachments/assets/75b8f6e0-4977-40a6-af70-a4bc37386584" />
 
-## AIM
+3. Use the Line, Circle, Arc, Rectangle, Polygon, and other sketching tools available in Autodesk Fusion 360 to create the required 2D geometry. Draw each component carefully according to the shape and proportions shown in the given sketch. 
+4. Use sketch modifying features such as Trim, Cut, Mirror, Move, Extend, Offset, and Fillet to edit, modify, and refine the sketch according to the given drawing. Remove unwanted portions, adjust the position and size of entities, create symmetrical features using Mirror, and ensure that the final sketch is accurate and properly dimensioned. 
+<img width="247" height="372" alt="Screenshot 2026-10-05 190639" src="https://github.com/user-attachments/assets/5fdc7cab-cceb-4be4-8dcd-08b67cb95de2" />
 
-To sketch the given drawing with dimensions using fusion 360 tool.
+5. Use inspect feature to measure the dimensions of sketch.
+<img width="247" height="372" alt="Screenshot 2026-10-05 190639" src="https://github.com/user-attachments/assets/3a8e7aba-7254-459f-b8ad-4e6fcf627e17" />
 
-## REQUIREMENTS
-
-  1. Autodesk fusion 360
-  2. Windows 10
-  3. 16 GB of RAM (integrated graphics recommend 2 GB or more)
-  4. 2.5 Mbps or faster download; 500 Kbps or faster upload 
+6. After finishing the sketch use finish sketch option to finalize the sket 
+<img width="386" height="362" alt="Screenshot 2026-10-05 190732" src="https://github.com/user-attachments/assets/094024eb-bb7b-4a37-87a5-d95f7a46ee58" />
   
-## PROCEDURE
-
-1.	Open new file and then select sketch icon.
-2.	Select the plane for sketching. 
-3.	Use sketching features (line, circle, arc, rectangle, polygon, etc.,) to draw the given sketch
-
-![image](https://user-images.githubusercontent.com/113594316/198206497-ca83d495-119b-45cd-b43d-8ca3ea7e9544.png)
-
-4.	Use sketch modifying features (cut, trim, mirror, move, etc.,) to edit the sketch.
-
-![image](https://user-images.githubusercontent.com/113594316/198206562-68463016-3f32-4a87-aa5b-7a17dd023b31.png)
-
-5.	Use inspect feature to measure the dimensions of sketch.
-
-![image](https://user-images.githubusercontent.com/113594316/198206621-6348e8a3-4bbd-4a1f-96d3-db16fbf933d9.png)
-
-6.	After finishing the sketch use finish sketch option to finalize the sketch.
-
-![image](https://user-images.githubusercontent.com/113594316/198206639-31c4bdb5-b13e-4106-bcf5-125c294aa03e.png)
-
-7.	After finishing the sketch switch to drawing mode to plot the sketch in ISO standard.
-
-![image](https://user-images.githubusercontent.com/113594316/198206697-2e3ead2b-7d1e-436e-bc36-aa2e73c1e78e.png)
-
-![image](https://user-images.githubusercontent.com/113594316/198206721-8ad45462-2675-4be2-964f-621c8fc4490e.png)
+7. After finishing the sketch switch to drawing mode to plot the sketch in ISO standard.
+   <img width="251" height="137" alt="Screenshot 2026-10-05 190754" src="https://github.com/user-attachments/assets/943d2527-37a3-4eff-a0de-9179fee6555b" />
+   <img width="326" height="351" alt="Screenshot 2026-10-05 190841" src="https://github.com/user-attachments/assets/9d8bca0d-811f-4ad3-9420-d2b25e206d89" />
 
 
-## SKETCHS
-![image](https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png)
+SKETCH:
+<img width="848" height="817" alt="Screenshot 2026-10-05 190913" src="https://github.com/user-attachments/assets/8e44b0b0-bab9-494f-aa74-982e730a2b6b" />
 
-## OUTPUT
+OUTPUT:
+<img width="707" height="566" alt="Screenshot 2026-10-05 104922" src="https://github.com/user-attachments/assets/8545d8d9-22ac-419e-84bf-3f05c600890d" />
+<img width="745" height="661" alt="Screenshot 2026-10-05 104549" src="https://github.com/user-attachments/assets/f930a2c5-d7c3-48ad-a288-40fb8e6081e6" />
 
 
-## RESULT
-Thus the given sketch is drawn and drafted using fusion 360 tool.
+
+
+RESULT: 
+Thus the result is obtained using fusion 360 software
+
