@@ -5,7 +5,8 @@ AIM:
 REQUIREMENTS: 
 1. Autodesk fusion 360 
 2. Windows 10 
-3. 16gb RAM (integrated graphics with 2 gb or more) 4. 2.5 mbps or faster download, 500 kbps or faster upload 
+3. 16gb RAM (integrated graphics with 2 gb or more) 4. 2.5 mbps or faster download, 500 kbps or faster upload
+    
 PROCEDURE: 
 1. Open an new file and then select sketch icon 
 2. Select the chosen plane for sketching
